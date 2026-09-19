@@ -81,7 +81,7 @@ erDiagram
     CONTOCORRENTE ||--o{ MOVIMENTO : effettua
 ```
 
-*(Lettura del diagramma: un CONTOCORRENTE effettua zero o più MOVIMENTO; un MOVIMENTO è effettuato da esattamente un CONTOCORRENTE.)*
+*(Lettura del diagramma: un CONTOCORRENTE effettua zero o più MOVIMENTI; un MOVIMENTO è effettuato da esattamente un CONTOCORRENTI.)*
 
 ---
 
@@ -114,7 +114,7 @@ erDiagram
     DOCENTE }|--|{ CLASSE : insegna
 ```
 
-*(Lettura del diagramma: un DOCENTE insegna in una o più CLASSE; una CLASSE ha uno o più DOCENTE.)*
+*(Lettura del diagramma: un DOCENTE insegna in una o più CLASSI; una CLASSE ha uno o più DOCENTI.)*
 
 > **Nota didattica.** Questo esercizio è un buon confronto con l'Esercizio 1: stesse due entità (DOCENTE e CLASSE), ma un'associazione diversa (INSEGNA invece di COORDINA) porta a una molteplicità completamente diversa (molti-a-molti invece di zero-a-uno/uno). È la prova che la molteplicità dipende dal **significato** dell'associazione, non dalle entità coinvolte.
 
@@ -149,7 +149,7 @@ erDiagram
     UTENTE }o--o{ SERVIZIO : "si abbona a"
 ```
 
-*(Lettura del diagramma: un UTENTE si abbona a zero o più SERVIZIO; un SERVIZIO è sottoscritto da zero o più UTENTE.)*
+*(Lettura del diagramma: un UTENTE si abbona a zero o più SERVIZI; un SERVIZIO è sottoscritto da zero o più UTENTI.)*
 
 ---
 
