@@ -102,6 +102,8 @@ Tecnologia-labs/
 | [Individua Entità, Associazioni e Attributi](./Anno5/Modulo1/pr-a5-m1-l02-es-individuazione-entita-associazioni.md) | Modulo-1 | Lezione-2 | Modello Concettuale | ⭐ Base |
 | [Realizza schemi E/R](./Anno5/Modulo1/pr-a5-m1-l02-es-analisi-problema-modellazione-dati.md) | Modulo-1 | Lezione-2 | Modello Concettuale | ⭐⭐ Intermedio |
 | [Da schemi E/R a tabelle](./Anno5/Modulo1/Pr-A5-M1-L03-Es-Traduzione-Er-Relazionale.md) | Modulo-1 | Lezione-3 | Modello Relazionale | ⭐⭐ Intermedio |
+| [Algebra relazionale](./Anno5/Modulo1/Pr-A5-M1-L04-Esercizi-Algebra-Relazionale-Guidati.md) | Modulo-1 | Lezione-4 | Algebra Relazionale | ⭐⭐ Intermedio |
+| [Normalizzazione](./Anno5/Modulo1/Pr-A5-M1-L05-%20Es-Esercizi-Normalizzazione-Guidati.md) | Modulo-1 | Lezione-5 | Normalizzazione | ⭐⭐ Intermedio |
 
 ### Modulo 2 — x
 
