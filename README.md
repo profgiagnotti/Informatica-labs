@@ -17,106 +17,33 @@ Ogni laboratorio è pensato per essere **pratico e completo** — dalla consulta
 ## 🗂️ Struttura del repository
 
 ```
-Tecnologia-labs/
+Informatica-labs/
 │
-├── Anno-3/                         ← Algoritmi e basi dei linguaggi di programmazione
-│   ├── Modulo-1/                   🔜 in arrivo
-│   ├── Modulo-2/                   🔜 in arrivo
-│   ├── Modulo-3/                   🔜 in arrivo
-│   └── Modulo-4/                   🔜 in arrivo
-│
-├── Anno-4/                         ← Programmazione OOP
-│   ├── Modulo-1/                   🔜 in arrivo
-│   └── Modulo-2/                   🔜 in arrivo
 │
 └── Anno-5/                         ← Database, SQL e PHP
     ├── Modulo-1/                   ✅ disponibile
-    ├── Modulo-2/                   🔜 in arrivo
-    └── Modulo-3/                   🔜 in arrivo
+    └── Modulo-3/                   ✅ disponibile
     
 
 ```
 
----
-
-## 📂 Anno 3 — Algoritmi e basi dei linguaggi di programmazione
-
-### Modulo 1 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Livello |
-|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-2 | Lezione-x | xxx | ⭐ Base |
 
 
-
-### Modulo 2 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Livello |
-|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-2 | Lezione-x | xxx | ⭐ Base |
-
-
-### Modulo 3 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Livello |
-|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-3 | Lezione-x | xxx | ⭐ Base |
-
-### Modulo 4 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Livello |
-|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-4 | Lezione-x | xxx | ⭐ Base |
-
-
----
-
-## 📂 Anno 4 — Programmazione OOP
-
-### Modulo 1 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-1 | Lezione-x | xxx | ⭐ Base |
-
-
-### Modulo 2 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-2 | Lezione-x | xxx | ⭐ Base |
-
-### Modulo 3 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-3 | Lezione-x | xxx | ⭐ Base |
 ---
 
 ## 📂 Anno 5 — Database, SQL e PHP
 
 ### Modulo 1 — Database
 
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
+| Laboratorio | Modulo | Lezione di riferimento | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [Individua Entità, Associazioni e Attributi](./Anno5/Modulo1/pr-a5-m1-l02-es-individuazione-entita-associazioni.md) | Modulo-1 | Lezione-2 | Modello Concettuale | ⭐ Base |
-| [Realizza schemi E/R](./Anno5/Modulo1/pr-a5-m1-l02-es-analisi-problema-modellazione-dati.md) | Modulo-1 | Lezione-2 | Modello Concettuale | ⭐⭐ Intermedio |
-| [Da schemi E/R a tabelle](./Anno5/Modulo1/Pr-A5-M1-L03-Es-Traduzione-Er-Relazionale.md) | Modulo-1 | Lezione-3 | Modello Relazionale | ⭐⭐ Intermedio |
-| [Algebra relazionale](./Anno5/Modulo1/Pr-A5-M1-L04-Esercizi-Algebra-Relazionale-Guidati.md) | Modulo-1 | Lezione-4 | Algebra Relazionale | ⭐⭐ Intermedio |
-| [Normalizzazione](./Anno5/Modulo1/Pr-A5-M1-L05-%20Es-Esercizi-Normalizzazione-Guidati.md) | Modulo-1 | Lezione-5 | Normalizzazione | ⭐⭐ Intermedio |
-
-### Modulo 2 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-2 | Lezione-x | xxx | ⭐ Base |
+| [Individua Entità, Associazioni e Attributi](./Anno5/Modulo1/pr-a5-m1-l02-es-individuazione-entita-associazioni.md) | Modulo-1 | [Lezione-2](https://profgiagnotti.altervista.org/livello-concettuale-e-schema-er/) | Modello Concettuale | ⭐ Base |
+| [Realizza schemi E/R](./Anno5/Modulo1/pr-a5-m1-l02-es-analisi-problema-modellazione-dati.md) | Modulo-1 | [Lezione-2](https://profgiagnotti.altervista.org/livello-concettuale-e-schema-er/) | Modello Concettuale | ⭐⭐ Intermedio |
+| [Da schemi E/R a tabelle](./Anno5/Modulo1/Pr-A5-M1-L03-Es-Traduzione-Er-Relazionale.md) | Modulo-1 | [Lezione-3](https://profgiagnotti.altervista.org/dal-modello-concettuale-al-modello-logico/) | Modello Relazionale | ⭐⭐ Intermedio |
+| [Algebra relazionale](./Anno5/Modulo1/Pr-A5-M1-L04-Esercizi-Algebra-Relazionale-Guidati.md) | Modulo-1 | [Lezione-4](https://profgiagnotti.altervista.org/algebra-relazionale/) | Algebra Relazionale | ⭐⭐ Intermedio |
+| [Normalizzazione](./Anno5/Modulo1/Pr-A5-M1-L05-%20Es-Esercizi-Normalizzazione-Guidati.md) | Modulo-1 | [Lezione-5](https://profgiagnotti.altervista.org/normalizzazione/) | Normalizzazione | ⭐⭐ Intermedio |
 
 
-### Modulo 3 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-3 | Lezione-x | xxx | ⭐ Base |
 
 
 
@@ -134,10 +61,12 @@ Hai trovato un errore o vuoi aggiungere un laboratorio?
 
 ---
 
-## 🔗 Risorse correlate
+## 🔗 Seguimi
 
-- 🌐 **Sito:** [profgiagnotti.altervista.org](https://profgiagnotti.altervista.org)
-- ▶️ **YouTube:** [youtube.com/@profgiagnotti](https://youtube.com/@profgiagnotti)
+- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.altervista.org)
+- ▶️ **YouTube:** [Youtube](https://youtube.com/@profgiagnotti)
+- 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/mariogiagnotti/)
+- ⓕ **Facebook** [Facebook](https://www.facebook.com/profgiagnotti.it)
 
 ---
 
