@@ -37,11 +37,11 @@ Informatica-labs/
 
 | Laboratorio | Modulo | Lezione di riferimento | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [Individua Entità, Associazioni e Attributi](./Anno5/Modulo1/pr-a5-m1-l02-es-individuazione-entita-associazioni.md) | Modulo-1 | [Lezione-2](https://profgiagnotti.altervista.org/livello-concettuale-e-schema-er/) | Modello Concettuale | ⭐ Base |
-| [Realizza schemi E/R](./Anno5/Modulo1/pr-a5-m1-l02-es-analisi-problema-modellazione-dati.md) | Modulo-1 | [Lezione-2](https://profgiagnotti.altervista.org/livello-concettuale-e-schema-er/) | Modello Concettuale | ⭐⭐ Intermedio |
-| [Da schemi E/R a tabelle](./Anno5/Modulo1/Pr-A5-M1-L03-Es-Traduzione-Er-Relazionale.md) | Modulo-1 | [Lezione-3](https://profgiagnotti.altervista.org/dal-modello-concettuale-al-modello-logico/) | Modello Relazionale | ⭐⭐ Intermedio |
-| [Algebra relazionale](./Anno5/Modulo1/Pr-A5-M1-L04-Esercizi-Algebra-Relazionale-Guidati.md) | Modulo-1 | [Lezione-4](https://profgiagnotti.altervista.org/algebra-relazionale/) | Algebra Relazionale | ⭐⭐ Intermedio |
-| [Normalizzazione](./Anno5/Modulo1/Pr-A5-M1-L05-%20Es-Esercizi-Normalizzazione-Guidati.md) | Modulo-1 | [Lezione-5](https://profgiagnotti.altervista.org/normalizzazione/) | Normalizzazione | ⭐⭐ Intermedio |
+| [Individua Entità, Associazioni e Attributi](./Anno5/Modulo1/pr-a5-m1-l02-es-individuazione-entita-associazioni.md) | Modulo-1 | [Lezione-2](https://profgiagnotti.it/livello-concettuale-e-schema-er/) | Modello Concettuale | ⭐ Base |
+| [Realizza schemi E/R](./Anno5/Modulo1/pr-a5-m1-l02-es-analisi-problema-modellazione-dati.md) | Modulo-1 | [Lezione-2](https://profgiagnotti.it/livello-concettuale-e-schema-er/) | Modello Concettuale | ⭐⭐ Intermedio |
+| [Da schemi E/R a tabelle](./Anno5/Modulo1/Pr-A5-M1-L03-Es-Traduzione-Er-Relazionale.md) | Modulo-1 | [Lezione-3](https://profgiagnotti.it/dal-modello-concettuale-al-modello-logico/) | Modello Relazionale | ⭐⭐ Intermedio |
+| [Algebra relazionale](./Anno5/Modulo1/Pr-A5-M1-L04-Esercizi-Algebra-Relazionale-Guidati.md) | Modulo-1 | [Lezione-4](https://profgiagnotti.it/algebra-relazionale/) | Algebra Relazionale | ⭐⭐ Intermedio |
+| [Normalizzazione](./Anno5/Modulo1/Pr-A5-M1-L05-%20Es-Esercizi-Normalizzazione-Guidati.md) | Modulo-1 | [Lezione-5](https://profgiagnotti.it/normalizzazione/) | Normalizzazione | ⭐⭐ Intermedio |
 
 
 
@@ -63,7 +63,7 @@ Hai trovato un errore o vuoi aggiungere un laboratorio?
 
 ## 🔗 Seguimi
 
-- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.altervista.org)
+- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.it)
 - ▶️ **YouTube:** [Youtube](https://youtube.com/@profgiagnotti)
 - 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/mariogiagnotti/)
 - ⓕ **Facebook** [Facebook](https://www.facebook.com/profgiagnotti.it)
